@@ -55,12 +55,12 @@ nav a:hover {
     /* border: 2px solid greenyellow; */
 }
 .left h1{
-    font-size: 60px;
+    font-size: 53px;
     font-weight: 100;
 }
 .left p {
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 19px;
+    line-height: 25px;
 }
 .empty{
     display: flex;
@@ -70,8 +70,8 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center; 
-    width: 60px;
-    height: 60px;
+    width: 48px;
+    height: 48px;
     background-color: orange;
     border-radius: 50%;
 }
